@@ -1,8 +1,3 @@
-Below is a “cook-book” style guide you can follow to reproduce **URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection**.
-Every numbered section corresponds to one of your requested items.
-
----
-
 ### 1 . High-level goal & contributions
 
 URLNet proposes an **end-to-end CNN that learns both character-level and word-level representations of URLs** to detect malicious links.
